@@ -1,5 +1,5 @@
 <h1 align="center">
-:computer: **Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding**
+:computer: Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
 </h1>
 
 <h1 align="center">
